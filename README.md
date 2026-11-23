@@ -6,12 +6,25 @@
 - **Asignatura:** Desarrollo Orientado a Objetos I
 - **Institución:** Duoc UC
   
-## Descripción del proyecto
+## Cómo acceder y ejecutar el proyecto
 
-LlanquihueTour es un sistema desarrollado en Java que permite gestionar personas relacionadas con una empresa de turismo.
-El proyecto aplica programación orientada a objetos, organización modular mediante paquetes, uso de colecciones ArrayList y
-lectura de datos desde un archivo CSV.
+**Para revisar el código:**
 
+1. Ingresar al repositorio de GitHub.
+2. Abrir las carpetas y archivos para revisar el código fuente directamente desde la plataforma.
+
+**Para ejecutar el proyecto en IntelliJ IDEA:**
+
+1. Clonar el repositorio desde IntelliJ IDEA o descargar el proyecto desde GitHub.
+2. Si se descarga el proyecto, descomprimirlo en una carpeta del computador.
+3. Abrir IntelliJ IDEA y seleccionar **File → Open**.
+4. Buscar y seleccionar la carpeta del proyecto que contiene el archivo `pom.xml`.
+5. Esperar a que IntelliJ IDEA reconozca el proyecto Maven y cargue sus dependencias.
+6. Verificar que el proyecto tenga configurado un JDK compatible.
+7. Comprobar que el archivo `personas.csv` se encuentre en `src/main/resources`.
+8. Navegar hasta `src/main/java/cl/duoc/llanquihuetour/ui/Main.java`.
+9. Abrir `Main.java` y presionar el botón **Run** (triángulo verde) para ejecutar el programa.
+10. Los resultados se mostrarán en la consola de IntelliJ IDEA.
 ## Cómo ejecutar el proyecto
 
 1. Descargar el proyecto desde el repositorio de GitHub utilizando la opción **Code → Download ZIP**, o clonarlo desde IntelliJ IDEA.
