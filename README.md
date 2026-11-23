@@ -1,10 +1,11 @@
 # LlanquihueTour — Laboratorio Semana 5
 
-Autor del proyecto
-Nombre: Catalina Soto Repol
-Asignatura: Desarrollo Orientado a Objetos I
-Institución: Duoc UC
+## Autor del proyecto
 
+- **Nombre:** Catalina Soto Repol
+- **Asignatura:** Desarrollo Orientado a Objetos I
+- **Institución:** Duoc UC
+  
 ## Descripción del proyecto
 
 LlanquihueTour es un sistema desarrollado en Java que permite gestionar personas relacionadas con una empresa de turismo.
