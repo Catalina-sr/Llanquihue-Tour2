@@ -25,18 +25,6 @@
 8. Navegar hasta `src/main/java/cl/duoc/llanquihuetour/ui/Main.java`.
 9. Abrir `Main.java` y presionar el botón **Run** (triángulo verde) para ejecutar el programa.
 10. Los resultados se mostrarán en la consola de IntelliJ IDEA.
-## Cómo ejecutar el proyecto
-
-1. Descargar el proyecto desde el repositorio de GitHub utilizando la opción **Code → Download ZIP**, o clonarlo desde IntelliJ IDEA.
-2. Descomprimir el archivo descargado en una carpeta del computador.
-3. Abrir IntelliJ IDEA y seleccionar **File → Open**.
-4. Buscar y seleccionar la carpeta principal `LlanquihueTour`, donde se encuentra el archivo `pom.xml`.
-5. Esperar a que IntelliJ IDEA cargue el proyecto Maven y sus dependencias.
-6. Verificar que el proyecto tenga configurado un JDK compatible.
-7. Comprobar que el archivo `personas.csv` esté ubicado en `src/main/resources`.
-8. Navegar hasta `src/main/java/cl/duoc/llanquihuetour/ui/Main.java`.
-9. Abrir la clase `Main.java` y presionar el botón **Run** (triángulo verde) para ejecutar el programa.
-10. Los resultados se mostrarán en la consola de IntelliJ IDEA.
 
 **Ubicación de la clase principal:**
 
