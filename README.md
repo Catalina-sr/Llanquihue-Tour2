@@ -1,6 +1,9 @@
 # LlanquihueTour — Laboratorio Semana 5
 
-**Asignatura:** Programación
+Autor del proyecto
+Nombre: Catalina Soto Repol
+Asignatura: Desarrollo Orientado a Objetos I
+Institución: Duoc UC
 
 ## Descripción del proyecto
 
