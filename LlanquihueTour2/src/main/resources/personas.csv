@@ -1,0 +1,23 @@
+﻿EMPLEADOS
+Nombre;Fecha de Nacimiento;RUT;Calle;Número;Comuna;Región;ID;Cargo;;;
+Catalina Soto Repol;29-04-1999;20.164.137-3;Los Alerces ;150;Puerto Varas;Los Lagos;6;Programadora;;;
+Francisca Morales Díaz;15-07-1998;19.876.543-2;Los Notros;245;Llanquihue;Los Lagos;7;Administrativa;;;
+Sebastián Rojas Pérez;11-02-1995;18.765.432-1;Los Copihues;320;Puerto Montt;Los Lagos;8;Recepcionista;;;
+
+CLIENTES
+Nombre;Fecha de Nacimiento;RUT;Calle;Número;Comuna;Región;Teléfono;Correo;Nacionalidad;Contacto  Emergencia;Relación
+Cristian Soto Repol;25-12-1990;17.458.789-3;Avenida Grecia;8215;Peñalolén;Metropolitana;+569 87456985;cristian.sr@gmail.com;Chileno;+569 87456985;Esposa
+Valentina Pérez Muñoz;18-06-1997;19.234.567-1;Los Carrera;450;Puerto Varas;Los Lagos;+569 76543210;valentina.pm@gmail.com;Chilena;+569 87654321;Madre
+Diego Fernández Silva;03-09-1992;16.789.234-5;Avenida Alemania;120;Puerto Montt;Los Lagos;+569 91234567;diego.fs@gmail.com;Chileno;+569 98765432;Hermano
+
+GUÍAS TURÍSTICOS
+Nombre;Fecha de Nacimiento;RUT;Calle;Número;Comuna;Región;ID;Idiomas;Especialidad;;
+Matías Ferreira Osorio;10-11-1989;17.456.876-6;San Francisco;325;Llanquihue;Los Lagos;48;Español, Inglés y Francés;Turismo de naturaleza;;
+Daniela Castro Ruiz;22-05-1994;18.345.678-9;Los Lagos;210;Puerto Varas;Los Lagos;49;Español e Inglés;Turismo cultural;;
+Felipe Vargas Soto;14-08-1991;17.987.654-3;O'Higgins;180;Frutillar;Los Lagos;50;Español y Alemán;Turismo aventura;;
+
+OPERADORES
+Nombre;Fecha de Nacimiento;RUT;Calle;Número;Comuna;Región;ID;Empresa;Servicio ofrecido;;
+Javiera Vega Peña;18-09-1999;20.145.789-8;Colón;450;Llanquihue;Los Lagos;96;Transportes Lagos del Sur;Traslado de turistas;;
+Andrés Muñoz Díaz;12-03-1987;16.543.210-8;San Martín;520;Puerto Varas;Los Lagos;97;Sur Turismo;Excursiones y transporte;;
+Camila Torres Rivas;27-10-1993;18.654.321-7;Arturo Prat;310;Puerto Montt;Los Lagos;98;Lagos Travel;Organización de actividades turísticas;;
